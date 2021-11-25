@@ -1,4 +1,4 @@
-# Hi, I'm Jörg.
+# Hi!
 
 We are a workplace search engine that helps people find companies using specific technologies in their region. Developers, students, or freelancers can search for companies using technologies they love and apply via a speculative application. 
 
