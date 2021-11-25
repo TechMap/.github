@@ -25,7 +25,7 @@ We are a workplace search engine that helps people find companies using specific
 
 Follow [Techmap.io](https://techmap.io) at:
 * <a target="_blank" href="https://twitter.com/techmapio">TechmapIO on Twitter</a>
-* <a target="_blank" href="https://github.com/Techmap">@Techmap on Github</a>
+* <a target="_blank" href="https://github.com/Techmap">Techmap on Github</a>
 * <a target="_blank" href="https://www.facebook.com/techmap.io">Techmap.io on Facebook</a>
 * <a target="_blank" href="https://www.linkedin.com/company/techmap-gmbh">Techmap GmbH on Linkedin</a>
 * <a target="_blank" href="https://www.xing.com/pages/techmapgmbh">Techmap GmbH on Xing</a> 
