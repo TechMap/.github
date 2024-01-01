@@ -1,6 +1,8 @@
 # Hi!
 
-We are a workplace search engine that helps people find companies using specific technologies in their region. Developers, students, or freelancers can search for companies using technologies they love and apply via a speculative application. 
+We are a workplace search engine that enables to find companies using specific technologies in a specific region. Developers, students, or freelancers can search for companies using technologies they love and apply via a speculative application. 
+
+If you are interested in buying job posting datasets, data feeds, or accessing our Jobs API you can find more information on our <a target="_blank" href="https://jobdatafeeds.com">JobDataFeeds.com Website</a>
 
 ### Currently used Technologies & Tools
 ![](https://img.shields.io/badge/Code-JavaScript-red?style=flat&logo=javascript&logoColor=white)
@@ -24,7 +26,7 @@ We are a workplace search engine that helps people find companies using specific
 
 
 Follow [Techmap.io](https://techmap.io) at:
-* <a target="_blank" href="https://twitter.com/techmapio">TechmapIO on Twitter</a>
+* <a target="_blank" href="https://twitter.com/techmap_io">TechmapIO on Twitter</a>
 * <a target="_blank" href="https://github.com/Techmap">Techmap on Github</a>
 * <a target="_blank" href="https://www.facebook.com/techmap.io">Techmap.io on Facebook</a>
 * <a target="_blank" href="https://www.linkedin.com/company/techmap-gmbh">Techmap GmbH on Linkedin</a>
